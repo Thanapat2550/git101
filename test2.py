@@ -1,2 +1,3 @@
 x = int(input ("Enter a number : "))
-print ("You entered: ", x)
+sum = x+5
+print("The sum of the number and 5 is:", sum)
